@@ -17,7 +17,7 @@ const jorge = {
     location: "La Paz, Bolivia 🇧🇴",
     experience: "15+ years",
     role: "Full-Stack Developer",
-    company: "Freelancer",
+    company: "TEKNICOS",
     
     code: ["PHP", "JavaScript", "Python", "SQL"],
     technologies: {
@@ -50,9 +50,30 @@ const jorge = {
 <img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,react&theme=dark" />
 </p>
 
-### 🗄️ Databases & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,linux,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+</p>
+
+### 🧰 Tools & IDEs
+<p>
+<img src="https://skillicons.dev/icons?i=phpstorm,webstorm,docker,git,linux&theme=dark" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Navicat-118D4D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white" />
+<img src="https://img.shields.io/badge/Tinkerwell-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white" />
+</p>
+
+### 💬 Collaboration
+<p>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 </div>
@@ -64,18 +85,6 @@ const jorge = {
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jararze&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jararze&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=FFFFFF"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jararze&theme=tokyonight&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jararze&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
 </div>
 
 ---
