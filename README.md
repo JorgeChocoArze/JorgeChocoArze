@@ -12,12 +12,16 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
+I'm a freelance web developer with **15+ years of experience** creating websites, mobile apps, and software solutions. My journey in software development has taken me through diverse projects, from concept to deployment, always with attention to detail and a pursuit of perfection.
+
+I specialize in converting designs to pixel-perfect code, building scalable web applications, and crafting solutions that actually solve problems. **Client satisfaction is my top priority.**
+
 ```javascript
 const jorge = {
     location: "La Paz, Bolivia 🇧🇴",
     experience: "15+ years",
     role: "Full-Stack Developer",
-    company: "TEKNICOS",
+    status: "Freelancer 💼",
     
     code: ["PHP", "JavaScript", "Python", "SQL"],
     technologies: {
@@ -33,6 +37,12 @@ const jorge = {
     funFact: "I turn ☕ into <code/>"
 };
 ```
+
+---
+
+## 👨‍👩‍👧‍👦 Beyond the Code
+
+When I'm not coding, I'm a **family man**. My family is my greatest motivation and the reason I strive to do my best work every day. They remind me that the best solutions are the ones that make life better for real people.
 
 ---
 
@@ -52,6 +62,7 @@ const jorge = {
 
 <p>
 <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
@@ -65,7 +76,7 @@ const jorge = {
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Navicat-118D4D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white" />
+<img src="https://img.shields.io/badge/Navicat-118D4D?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Tinkerwell-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white" />
 </p>
@@ -97,6 +108,20 @@ const jorge = {
 
 ---
 
+## ⚡ Experience Highlights
+
+<div align="center">
+
+| 🕐 Experience | 🌐 Expertise | 🎯 Focus |
+|:---:|:---:|:---:|
+| 15+ Years | Web & Mobile Apps | Client Satisfaction |
+| 100+ Projects | E-commerce & SaaS | Clean Code |
+| Global Clients | API Integrations | Pixel-Perfect Design |
+
+</div>
+
+---
+
 ## 💼 What I Do
 
 <div align="center">
@@ -119,6 +144,7 @@ const jorge = {
 🔭 Working on: SaaS platforms for the Bolivian market
 🌱 Learning: React Native & Mobile Development
 💬 Ask me about: Laravel, Livewire, Vue.js, Tailwind CSS
+👨‍👩‍👧‍👦 Life: Proud family man
 ⚡ Fun fact: I've been coding since before smartphones existed!
 ```
 
@@ -126,12 +152,15 @@ const jorge = {
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect!
 
 <div align="center">
+
+I'm always open to interesting projects and collaborations. If you're looking for a dedicated developer who delivers quality work, let's talk!
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-alfredo-arze-montalvo-a3b96a34/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jararze)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com)
 
 </div>
 
