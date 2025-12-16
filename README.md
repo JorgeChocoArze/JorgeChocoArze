@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF2D20&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=120&section=header"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF2D20&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Jorge+Arze;Full-Stack+Developer;15%2B+Years+of+Experience;Laravel+%7C+Vue.js+%7C+Livewire;Building+Solutions+from+Bolivia+%F0%9F%87%A7%F0%9F%87%B4)](https://github.com/jararze)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Jorge+Arze;Full-Stack+Developer;15%2B+Years+of+Experience;Laravel+%7C+Vue.js+%7C+Livewire;Building+Solutions+from+Bolivia+%F0%9F%87%A7%F0%9F%87%B4)](https://github.com/jararze)
 
-<img src="https://komarev.com/ghpvc/?username=jararze&label=Profile%20Views&color=FF2D20&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=jararze&label=Profile%20Views&color=0891B2&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -62,12 +62,12 @@ const jorge = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jararze&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF2D20&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jararze&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF2D20&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jararze&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jararze&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jararze&theme=radical&hide_border=true&background=0D1117&stroke=FF2D20&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=jararze&theme=tokyonight&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -75,7 +75,7 @@ const jorge = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jararze&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jararze&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -83,7 +83,7 @@ const jorge = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jararze&bg_color=0D1117&color=FF2D20&line=FF2D20&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jararze&bg_color=0D1117&color=06B6D4&line=06B6D4&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -132,7 +132,7 @@ const jorge = {
 
 ### 💭 Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
 
@@ -143,4 +143,4 @@ const jorge = {
   <b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you!</b> 😊
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF2D20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=120&section=footer"/>
