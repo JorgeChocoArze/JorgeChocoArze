@@ -17,7 +17,7 @@ const jorge = {
     location: "La Paz, Bolivia 🇧🇴",
     experience: "15+ years",
     role: "Full-Stack Developer",
-    company: "TEKNICOS",
+    company: "Freelancer",
     
     code: ["PHP", "JavaScript", "Python", "SQL"],
     technologies: {
